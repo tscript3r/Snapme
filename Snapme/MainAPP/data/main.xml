@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Settings version="1.0">
+
+    <General>
+		<Lang name="eng" />
+		<Layout path="Data\layouts.xml" name="Default" />
+
+		<Languages>
+			<lang name="eng" full_name="English" path="lang\eng.xml" />
+			<lang name="pl" full_name="Polski" path="lang\pl.xml" />
+		</Languages>
+		<UploadServices>
+			<Service name="SpeedyShare" enable="true" />
+			<Service name="ZippyShare" enable="false" />
+			<Service name="Facebook" enable="true" />
+			<Service name="NK" enable="true" />
+			<Service name="imageshare.sh" enable="true" />
+		</UploadServices>
+		<ScreenSaver path="C:\Users\%u\Pictures\Screens\" format="png" name="%d_%r"/>
+		
+		<AutoSave enable="true" />
+	</General>
+  
+</Settings>

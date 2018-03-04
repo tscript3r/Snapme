@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<Language name="eng" fullname="English">
+
+    <MenuForm>
+      <Button name="sbCut"    caption="Cut" caption_ex="Reverse" />
+      <Button name="sbPaint"  caption="Paint" />
+      <Button name="sbCancel" caption="Cancel" />
+      <Button name="sbUpload" caption="Upload" />
+      <Button name="sbSave"   caption="Save" /> 
+      <Button name="sbCopy"   caption="Copy" />
+    </MenuForm>
+  
+</Language>

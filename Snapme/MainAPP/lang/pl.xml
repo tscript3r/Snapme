@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Language name="pl" fullname="Polski">
+
+    <MenuForm>
+      <Button name="sbCut"       caption="Tnij" caption_ex="Przywróć" />
+      <Button name="sbPaint"     caption="Edytuj" />
+      <Button name="sbCancel"    caption="Anuluj" />
+      <Button name="sbUpload"    caption="Wyślij" />
+	</MenuForm>
+  
+</Language>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Settings>
+  <MenuForm color="123456" blend="240">
+    <Button name="sbCut" color="1234" h_color="4321" f_color="red" fh_color="blue" />
+    <Button name="sbPaint" color="1234" h_color="4321" f_color="red" fh_color="blue" />
+  </MenuForm>
+</Settings>

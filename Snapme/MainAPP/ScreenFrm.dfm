@@ -1,0 +1,30 @@
+object ScreenForm: TScreenForm
+  Left = 199
+  Top = 211
+  AlphaBlend = True
+  BorderStyle = bsNone
+  Caption = 'ScreenForm'
+  ClientHeight = 122
+  ClientWidth = 162
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsStayOnTop
+  OldCreateOrder = False
+  WindowState = wsMaximized
+  OnCreate = FormCreate
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object iScreen: TImage
+    Left = 0
+    Top = 0
+    Width = 105
+    Height = 105
+    OnMouseMove = iDrawMouseMove
+    OnMouseUp = iDrawMouseUp
+  end
+end

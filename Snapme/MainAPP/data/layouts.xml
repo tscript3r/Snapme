@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Layouts>
+
+  <Default>
+	<MenuForm color="15768591" blend="244" size="10" fit="0">
+		<ButtonsSize width="0" height="0" rl_interspace="4" tb_interspace="4" interspace="4"/> 
+		<Button name="sbCut"    color="16282753" h_color="16633554" f_color="16777215" fh_color="723723" f_size="20" fh_size="20" f_name="Jokerman" fh_name="Jokerman" />
+		<Button name="sbPaint"  color="16282753" h_color="16633554" f_color="16777215" fh_color="723723" f_size="20" fh_size="20" f_name="Jokerman" fh_name="Jokerman" />
+		<Button name="sbCancel" color="16282753" h_color="16633554" f_color="16777215" fh_color="723723" f_size="20" fh_size="20" f_name="Jokerman" fh_name="Jokerman" />
+		<Button name="sbUpload" color="16282753" h_color="16633554" f_color="16777215" fh_color="723723" f_size="20" fh_size="20" f_name="Jokerman" fh_name="Jokerman" />
+		<Button name="sbSave"   color="16282753" h_color="16633554" f_color="16777215" fh_color="723723" f_size="20" fh_size="20" f_name="Jokerman" fh_name="Jokerman" />
+		<Button name="sbCopy"   color="16282753" h_color="16633554" f_color="16777215" fh_color="723723" f_size="20" fh_size="20" f_name="Jokerman" fh_name="Jokerman" />
+	</MenuForm>
+	<UploadForm color="15888742" blend="245" size="10" style="0">
+		<Button name="sbCancel" color="16282753" h_color="16633554" f_color="16777215" fh_color="723723" f_size="20" fh_size="20" f_name="Small Fonts" fh_name="Small Fonts" />
+	</UploadForm>
+  </Default>
+  
+</Layouts>
